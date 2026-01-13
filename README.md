@@ -16,7 +16,7 @@ I am a data-driven Product Manager focused on building thoughtful, human-centere
 
 ### Anchor  
 <p align="left">
-  <img src="assets/anchor_icon_192.png" width="120"/>
+  <img src="assets/anchor_icon_192.png" width="100"/>
 </p>
 
 A mental wellness product focused on emotional grounding and reflection.  
