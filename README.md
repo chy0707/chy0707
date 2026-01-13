@@ -1,4 +1,4 @@
-# Hi, I'm Haoyu 👋  
+# Hi there. Welcome to my innovative storage! 👋  
 
 **Data-driven Product Manager blending analytics, intuition, and human-centered design.**
 
@@ -6,8 +6,14 @@ I build products that connect data with real human experience.
 I care about clarity, grounding, and turning complex signals into simple, meaningful systems.
 
 ---
+## Education 🎓
 
-## 🧭 Featured Project
+- **M.S., Northeastern University**, Commerce & Economic Development (Data Analytics), 2023–2025  
+- **B.A., University of California, Davis**, Economics (International Macro Finance), 2018–2023 ()
+
+---
+
+## Featured Project 🧭
 
 ### Anchor  
 A mental wellness product focused on emotional grounding and reflection.  
@@ -15,25 +21,12 @@ Designed to help users reconnect with themselves through gentle daily check-ins 
 
 **Role:** Product Manager · Product Designer · Engineer · Brand Builder  
 
-🔗 Live Demo: anchor-mood.vercel.app  
-📦 Repo: Coming soon...
+Live Demo 🔗: anchor-mood.vercel.app  
+Repo 📦: Coming soon...
 
 ---
 
-## 📌 Other Projects
-
-- **Pricing Strategy Analytics**  
-  Data-driven pricing optimization using experimentation, elasticity modeling, and ROI analysis.  
-
-- **Market Expansion Modeling**  
-  Built analytical frameworks to evaluate market feasibility and strategic growth opportunities.  
-
-- **Machine Learning / Data Science Project**  
-  End-to-end modeling pipeline from data preprocessing to model evaluation and business interpretation.
-
----
-
-## 🛠 Tech Stack
+## Tech Stack 🛠
 
 **Product & Analytics:**  
 Product Strategy · Experiment Design · User Research · Data Storytelling · LLM Prompting  
