@@ -8,20 +8,21 @@ I care about clarity, grounding, and turning complex signals into simple, meanin
 ---
 ## Education 🎓
 
-<p align="center">
-  <img src="assets/neu.png" width="160"/>
-  <img src="assets/ucd.png" width="160"/>
+<p align="left">
+  <img src="assets/neu.png" width="100"/>
 </p>
-
-- **M.S., Northeastern University**, Commerce & Economic Development (Data Analytics), 2023–2025  
-- **B.A., University of California, Davis**, Economics (International Macro Finance), 2018–2023 ()
+- **M.S., Northeastern University**, Commerce & Economic Development (Data Analytics), 2023–2025
+<p align="left">
+  <img src="assets/neu.png" width="100"/>
+</p>
+- **B.A., University of California, Davis**, Economics (International Macro Finance), 2018–2023 
 
 ---
 
 ## Featured Project 🧭
 
 ### Anchor  
-<p align="center">
+<p align="left">
   <img src="assets/anchor_icon_192.png" width="120"/>
 </p>
 
