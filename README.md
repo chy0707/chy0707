@@ -38,7 +38,7 @@ Repo 📦: Coming soon...
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me 🔗
 
 - 🌐 Personal Website: https://haoyu.vercel.app  
 - 💼 LinkedIn: www.linkedin.com/in/chenghaoyu0707
