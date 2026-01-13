@@ -40,10 +40,9 @@ Repo 📦: Coming soon...
 
 ## Connect with Me 🔗
 
-- 🌐 Personal Website: https://haoyu.vercel.app  
-- 💼 LinkedIn: www.linkedin.com/in/chenghaoyu0707
-- 📧 Email: haoyucheng267@outlook.com 
-- 📄 Resume: Coming soon...
+- Resume 📄: Coming soon...
+- Personal Website 🌐: Coming soon... 
+- LinkedIn 💼: [chenghaoyu0707](www.linkedin.com/in/chenghaoyu0707)
 
 ---
 
