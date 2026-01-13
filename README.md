@@ -33,8 +33,8 @@ Designed to help users reconnect with themselves through gentle daily check-ins 
 
 **Role:** Product Manager · Product Designer · Engineer · Brand Builder  
 
-Live Demo 🔗: anchor-mood.vercel.app  
-Repo 📦: Coming soon...
+- Live Demo 🔗: [Track Your Mood with Anchor](anchor-mood.vercel.app)
+- Repo 📦: [Anchor Git Repo](https://github.com/chy0707/anchor)
 
 ---
 
