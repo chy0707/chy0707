@@ -31,7 +31,7 @@ Designed to help users reconnect with themselves through gentle daily check-ins 
 
 ## Connect with Me 🔗
 
-- Resume 📄: Coming soon...
+- Resume 📄: [Resume](resume/Haoyu_Cheng_PM.pdf)
 - Personal Website 🌐: Coming soon... 
 - LinkedIn 💼: [chenghaoyu0707](www.linkedin.com/in/chenghaoyu0707)
 
