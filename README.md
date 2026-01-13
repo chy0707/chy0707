@@ -2,8 +2,7 @@
 
 **Data-driven Product Manager blending analytics, intuition, and human-centered design.**
 
-I build products that connect data with real human experience.  
-I care about clarity, grounding, and turning complex signals into simple, meaningful systems.
+I am a data-driven Product Manager focused on building thoughtful, human-centered products grounded in analytics and strong product intuition. I hold a Master’s degree in Commerce & Economic Development (Data Analytics) from Northeastern University, and a Bachelor’s degree from the University of California, Davis. My interests lie in product strategy, data-driven decision making, and designing experiences that connect technology with real human needs.
 
 ---
 ## Education 🎓
@@ -36,34 +35,6 @@ Designed to help users reconnect with themselves through gentle daily check-ins 
 
 Live Demo 🔗: anchor-mood.vercel.app  
 Repo 📦: Coming soon...
-
----
-
-## Tech Stack 🛠
-
-**Product & Analytics:**  
-Product Strategy · Experiment Design · User Research · Data Storytelling · LLM Prompting  
-
-**Data & ML:**  
-Python · SQL · Pandas · Scikit-learn · Spark · AWS · Databricks  
-
-**Frontend & Product Prototyping:**  
-React · Next.js · Tailwind · Figma  
-
-**Tools:**  
-Git · GitHub · VS Code · Jira · Notion
-
-**Visualizations:**  
-Tableau · Power BI · Qlik · Excel
-
----
-
-## 🌱 What I'm Interested In
-
-- Human-centered product design  
-- Data-driven decision making  
-- AI-powered user experiences  
-- Products that feel calm, intentional, and grounded  
 
 ---
 
